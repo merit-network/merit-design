@@ -1,1 +1,6 @@
 site_name: My Docs
+theme:
+  name: material
+  palette:
+    primary: light blue
+    scheme: slate
