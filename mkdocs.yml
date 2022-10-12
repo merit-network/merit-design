@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Merit Design Docs
+nav:
+  - Home: index.md
+  - Guidelines: guidelines.md
+
+theme:
+  name: material
+  palette:
+    primary: light blue
+    scheme: slate

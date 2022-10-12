@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Merit Network - Design System
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+A design system for Merit Network products and digital experiences. This system consists of design components, resources, user interface guidelines and sample code snippets.
 
-## Commands
+## Sections
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* [Guidelines](guidelines.md).
+* UI Components.
+* Color.
+* Layout.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
