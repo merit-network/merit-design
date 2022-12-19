@@ -2,6 +2,7 @@ site_name: Merit Design Docs
 nav:
   - Home: index.md
   - Guidelines: guidelines.md
+  - Components: components.md
 
 theme:
   name: material

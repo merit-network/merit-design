@@ -4,18 +4,17 @@ A design system for Merit Network products and digital experiences. This system 
 
 ## Content
 
-* [Guidelines](guidelines.md)
-  * Accessibility
-  * Color
-  * Layout
-  * Themes
-  * Typography
-* Components
+### Guidelines
+  * [Accessibility](accessibility.md)
+  * [Color](color.md)
+  * [Layout](layout.md)
+  * [Typography](typography.md)
+
+### Components
   * Accordion
   * Button
   * Card
   * Form
   * Link
   * Modal
-* Resources
-
+### Resources
