@@ -5,10 +5,10 @@ A design system for Merit Network products and digital experiences. This system 
 ## Content
 
 ### Guidelines
-  * [Accessibility](accessibility.md)
-  * [Color](color.md)
-  * [Layout](layout.md)
-  * [Typography](typography.md)
+  * [Accessibility](guidelines/accessibility.md)
+  * [Color](guidelines/color.md)
+  * [Layout](guidelines/layout.md)
+  * [Typography](guidelines/typography.md)
 
 ### Components
   * Accordion
@@ -17,4 +17,3 @@ A design system for Merit Network products and digital experiences. This system 
   * Form
   * Link
   * Modal
-### Resources

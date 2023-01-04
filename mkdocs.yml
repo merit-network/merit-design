@@ -1,11 +1,19 @@
 site_name: Merit Design Docs
 nav:
   - Home: index.md
-  - Guidelines: guidelines.md
-  - Components: components.md
+  - Guidelines: 
+    - guidelines/index.md
+    - Color: guidelines/color.md
+    - Layout: guidelines/layout.md
+    - Typography: guidelines/typography.md
+    - Accessibility: guidelines/accessibility.md
 
 theme:
   name: material
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.expand
   palette:
     primary: light blue
     scheme: slate
