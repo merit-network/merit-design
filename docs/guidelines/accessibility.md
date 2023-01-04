@@ -4,7 +4,7 @@ With the goal of creative software that is iclusive and accessible by every memb
 ## Tools
 A list of helpful tools to aid in developing and testing accessible web apps:
 
-* WAVE - Web Accessibility Evaluation Tool. This is a suite of web accessibility testing tools; the quickest tool to use is the browser [extension](https://wave.webaim.org/extension/)
+* [WAVE](https://wave.webaim.org/) - Web Accessibility Evaluation Tool. This is a suite of web accessibility evaluation tools; the quickest tool to use is the browser [extension](https://wave.webaim.org/extension/)
 * Color Contrast Tools:
     * [Coolers Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
     * [Contrast Ratio](https://contrast-ratio.com/#%23304c58-on-white)
